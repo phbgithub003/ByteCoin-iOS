@@ -1,4 +1,4 @@
-ByteCoin iOS Project
+**ByteCoin iOS Project**
 
 This is a practice project where I'm learning to implement API requests in iOS development.
 
